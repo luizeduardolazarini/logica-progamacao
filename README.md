@@ -24,6 +24,29 @@ Nesta seção, pratiquei a entrada de dados, processamento matemático e saída 
 * **Linguagens:** VisuAlg (.alg) e Python (.py)
 * **Controle de Versão:** Git & GitHub
 
+---
+
+## 📂 Seção 04: Estrutura Condicional
+
+Nesta seção, foquei no desenvolvimento da lógica de tomada de decisão, utilizando estruturas como `se-entao-senao` e a estrutura de seleção múltipla `escolha-caso`.
+
+| Exercício | Arquivo | Descrição |
+| :--- | :--- | :--- |
+| **Notas** | `notas.alg` | Verifica aprovação baseada na média. |
+| **Bhaskara** | `bhaskara.alg` | Cálculo de raízes com tratamento de erro. |
+| **Menor de Três** | `menor_de_tres.alg` | Comparação lógica entre três valores. |
+| **Operadora** | `operadora.alg` | Cálculo de plano de telefonia e excedentes. |
+| **Troco Verificado** | `troco_verificado.alg` | Lógica de caixa com verificação de saldo. |
+| **Glicose** | `glicose.alg` | Classificação de níveis de saúde. |
+| **Dardo** | `dardo.alg` | Identificação de maior distância em lançamentos. |
+| **Temperatura** | `temperatura.alg` | Conversão de escalas (Celsius/Fahrenheit). |
+| **Lanchonete** | `lanchonete.alg` | Menu interativo com `escolha-caso`. |
+| **Múltiplos** | `multiplos.alg` | Verificação de divisibilidade em qualquer ordem. |
+| **Aumento** | `aumento.alg` | Reajuste salarial por faixas de porcentagem. |
+| **Tempo de Jogo** | `tempo_de_jogo.alg` | Duração de partidas (lógica da meia-noite). |
+| **Coordenadas** | `coordenadas.alg` | Quadrantes e eixos no plano cartesiano. |
+
+---
 ## 📂 Seção 04: Estrutura Condicional
 
 Nesta etapa, foquei no desenvolvimento da lógica de tomada de decisão, utilizando estruturas como `se-entao-senao` e a estrutura de seleção múltipla `escolha-caso`.
