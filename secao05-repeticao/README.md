@@ -1,40 +1,25 @@
-# 🚀 Seção 05: Estruturas de Repetição (Loops)
+# 📂 Seção 05: Estrutura de Repetição
 
-Este repositório contém a resolução dos problemas de lógica da **Seção 05** do curso de Algoritmos. O foco desta etapa foi dominar as estruturas `ENQUANTO` e `PARA`, fundamentais para o processamento de dados e automação.
+Nesta seção, foquei no desenvolvimento da lógica de loops, utilizando as estruturas `enquanto` e `para` para processamento de dados e cálculos iterativos.
 
-## 🛠️ Tecnologias Utilizadas
-* **Linguagem:** VisuAlg (Portugol)
-* **Ambiente:** Ubuntu via WSL (Linux)
-* **Versionamento:** Git & GitHub
-
-## 📂 Algoritmos Desenvolvidos
-
-| Arquivo | Descrição | Conceito Chave |
+| Exercício | Arquivo | Descrição |
 | :--- | :--- | :--- |
-| `crescente.alg` | Verifica se números foram digitados em ordem crescente. | Interrupção de loop |
-| `media_idades.alg` | Calcula a média de idades ignorando valores negativos. | Acumuladores e Médias |
-| `senha_fixa.alg` | Validação de acesso até que a senha correta seja inserida. | Controle de acesso (`Enquanto`) |
-| `quadrante.alg` | Identifica o quadrante cartesiano de coordenadas X e Y. | Geometria Analítica no Loop |
-| `validacao_de_nota.alg` | Garante que as notas inseridas estejam entre 0 e 10. | Filtro de entrada de dados |
-| `combustivel.alg` | Pesquisa de preferência de clientes em um posto. | Contadores de Categoria |
-| `pares_consecutivos.alg` | Soma de 5 pares consecutivos a partir de um número X. | Lógica Matemática |
-| `tabuada.alg` | Gera a tabuada completa de um número N. | Estrutura `Para` básica |
-| `sequencia_impares.alg` | Mostra todos os ímpares até um valor X. | Incremento Condicional |
-| `soma_impares.alg` | Soma todos os números ímpares em um intervalo. | Acumulador Condicional |
-| `dentro_fora.alg` | Conta quantos números estão dentro/fora do intervalo [10,20]. | Verificação de Faixa (Range) |
-| `par_impar.alg` | Classifica números em Par/Ímpar e Positivo/Negativo. | Estrutura de Decisão Aninhada |
-| `media_ponderada.alg` | Calcula médias usando pesos 2, 3 e 5. | **Base de Redes Neurais** |
-| `divisao.alg` | Realiza divisões tratando o erro de denominador zero. | Tratamento de Erros Críticos |
-| `fatorial.alg` | Calcula o fatorial (N!) de um número até 15. | Acumulador Multiplicativo |
-| `experiencias.alg` | Relatório estatístico de testes com cobaias. | Agregação e Percentuais |
+| **Crescente** | `crescente.alg` | Verifica a ordem de números digitados. |
+| **Média Idades** | `media_idades.alg` | Cálculo de média com interrupção por valor negativo. |
+| **Senha Fixa** | `senha_fixa.alg` | Validação de acesso com repetição. |
+| **Quadrante** | `quadrante.alg` | Identificação de quadrantes em loop. |
+| **Validação de Nota** | `validacao_de_nota.alg` | Filtro para entrada de dados válidos. |
+| **Combustível** | `combustivel.alg` | Contador de preferência de produtos. |
+| **Pares Consecutivos** | `pares_consecutivos.alg` | Soma de sequências matemáticas. |
+| **Tabuada** | `tabuada.alg` | Geração de tabuada usando a estrutura PARA. |
+| **Sequência Ímpares** | `sequencia_impares.alg` | Filtro e exibição de números ímpares. |
+| **Soma Ímpares** | `soma_impares.alg` | Acumulador de valores em um intervalo. |
+| **Dentro/Fora** | `dentro_fora.alg` | Verificação de contagem dentro de um range. |
+| **Par Ímpar** | `par_impar.alg` | Classificação múltipla de números. |
+| **Média Ponderada** | `media_ponderada.alg` | Cálculo estatístico com pesos. |
+| **Divisão** | `divisao.alg` | Tratamento de erro em divisões repetidas. |
+| **Fatorial** | `fatorial.alg` | Cálculo de N! (Acumulador multiplicativo). |
+| **Experiências** | `experiencias.alg` | Relatório estatístico completo com porcentagens. |
 
 ---
-
-## 🧠 Conexão com Engenharia de IA
-Dominar loops é essencial para:
-1. **Treinamento de Modelos:** Épocas de treinamento são loops gigantes.
-2. **Data Cleaning:** Limpeza de dados em massa usando condicionais dentro de loops.
-3. **Cálculo de Pesos:** Uso de médias ponderadas para ajuste de neurônios artificiais.
-
----
-*Desenvolvido por Luiz Eduardo Lazarini de Paula como parte dos estudos no IFMS - TADS.*
+*Estudos dirigidos para o curso de TADS - IFMS.*
