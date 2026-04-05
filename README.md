@@ -1,16 +1,16 @@
 # Lógica de Programação - Estudos Pessoais (Udemy) 🚀
 
-Repositório dedicado aos estudos de lógica de programação e algoritmos, focado na transição do VisuAlg para Python e Engenharia de IA.
+Repositório dedicado aos estudos de lógica de programação e algoritmos, focado na transição do VisuAlg para Python e Engenharia de IA. Preparação para o curso de TADS no IFMS.
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Ambiente:** Ubuntu Linux (WSL2)
 * **Linguagens:** VisuAlg (.alg) e Python (.py)
-* **Plataforma:** Udemy
+* **Plataforma:** Udemy (Prof. Nélio Alves)
 * **Controle de Versão:** Git & GitHub
 
 ---
 
-## 📂 Estrutura Sequencial (Concluída)
+## 📂 Seção: Estrutura Sequencial (Concluída ✅)
 | Exercício | Arquivo | Conceitos Chave |
 | :--- | :--- | :--- |
 | **Soma** | `exercicio_soma.alg` | Operadores aritméticos. |
@@ -27,7 +27,7 @@ Repositório dedicado aos estudos de lógica de programação e algoritmos, foca
 
 ---
 
-## 📂 Seção: Estrutura Condicional (Concluída)
+## 📂 Seção: Estrutura Condicional (Concluída ✅)
 | Exercício | Arquivo | Descrição |
 | :--- | :--- | :--- |
 | **Notas** | `notas.alg` | Verificação de aprovação. |
@@ -68,22 +68,23 @@ Repositório dedicado aos estudos de lógica de programação e algoritmos, foca
 
 ---
 
-## 📂 Seção 06: Vetores (Estruturas de Dados Unidimensionais)
-Nesta seção, finalizei 12 exercícios práticos que abordam desde a manipulação básica de arrays até processamento de dados complexos com múltiplos vetores paralelos.
+## 📂 Seção 06: Vetores (Concluída 🏆)
+Nesta seção, finalizei os 12 desafios práticos de manipulação de arrays e vetores paralelos.
 
-### ✅ Exercícios Concluídos:
-* **Negativos:** Identificação de números menores que zero.
-* **Soma Vetor:** Cálculo de soma e média de elementos.
-* **Alturas:** Estatísticas baseadas em dados de altura e idade.
-* **Números Pares:** Filtro e contagem de valores pares.
-* **Maior Posição:** Identificação do maior valor e seu índice.
-* **Soma Vetores:** Operações matemáticas entre dois vetores distintos.
-* **Abaixo da Média:** Filtro de elementos com base na média aritmética.
-* **Média Pares:** Processamento condicional de médias.
-* **Mais Velho:** Lógica de comparação entre vetores de texto e inteiros.
-* **Aprovados:** Sistema de filtragem acadêmica.
-* **Dados Pessoas:** Estatísticas demográficas (altura e gênero).
-* **Comerciante:** Relatório completo de lucro e vendas (Boss Final).
+| Exercício | Arquivo | Conceito Chave |
+| :--- | :--- | :--- |
+| **Negativos** | `negativos.alg` | Identificação de valores < 0. |
+| **Soma Vetor** | `soma_vetor.alg` | Acumuladores e média aritmética. |
+| **Alturas** | `alturas.alg` | Estatística e porcentagem. |
+| **Números Pares** | `numeros_pares.alg` | Filtro e contagem de pares. |
+| **Maior Posição** | `maior_posicao.alg` | Lógica de "Rei da Montanha". |
+| **Soma Vetores** | `soma_vetores.alg` | Operação entre múltiplos arrays. |
+| **Abaixo da Média** | `abaixo_da_media.alg` | Filtro baseado em média. |
+| **Média Pares** | `media_pares.alg` | Processamento seletivo. |
+| **Mais Velho** | `mais_velho.alg` | Sincronia de Texto e Inteiros. |
+| **Aprovados** | `aprovados.alg` | Filtro acadêmico (Média >= 6). |
+| **Dados Pessoas** | `dados_pessoas.alg` | Censo demográfico e filtros. |
+| **Comerciante** | `comerciante.alg` | **Boss Final:** Relatório Comercial. |
 
----------------------------------------------------------------------------------------------------------------------
-*Desenvolvido por Luiz Eduardo Lazarini de Paula*
+---
+**Desenvolvido com foco e disciplina por Luiz Eduardo Lazarini de Paula** 🚀 Nova Andradina - MS
